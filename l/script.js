@@ -1,5 +1,6 @@
 ﻿document.addEventListener('DOMContentLoaded', () => {
-
+document.body.style.backgroundColor = "black";
+     
 let var1 = [];
 
 let counter = () => {
